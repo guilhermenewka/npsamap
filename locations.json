@@ -2597,6 +2597,46 @@
 	},
 	{
 		"type": "Territories",
+		"title": "Infernus MC",
+		"notes": "Infernus Motorcycle Club",
+		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/Infernus",
+		"order": 0,
+		"strokecolor": "CC2900",
+		"fillcolor": "FF3300",
+		"latlngarray": [
+			{"lat": 23.271, "lng": 40.642},
+			{"lat": 25.591, "lng": 44.378},
+			{"lat": 28.834, "lng": 45.960},
+			{"lat": 30.968, "lng": 42.356},
+			{"lat": 33.017, "lng": 39.763},
+			{"lat": 37.151, "lng": 36.775},
+			{"lat": 41.686, "lng": 35.250},
+			{"lat": 40.024, "lng": 31.822},
+			{"lat": 41.686, "lng": 30.108},
+			{"lat": 40.627, "lng": 26.593},
+			{"lat": 38.010, "lng": 27.691},
+			{"lat": 35.367, "lng": 28.905},
+			{"lat": 34.394, "lng": 32.157},
+			{"lat": 30.236, "lng": 35.013}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "The Lost MC",
+		"notes": "The Lost MC é um Moto clube com sede em Stab City, próximo a Sandy Shores.",
+		"wiki_link": "https://nopixelsa.fandom.com/pt-br/wiki/The_Lost_MC",
+		"order": 0,
+		"strokecolor": "0D0D0D",
+		"fillcolor": "4D4D4D",
+		"latlngarray": [
+			{"lat": 40.526, "lng": 26.461},
+			{"lat": 36.840, "lng": 28.021},
+			{"lat": 36.195, "lng": 24.165},
+			{"lat": 39.551, "lng": 22.427}
+		]
+	},
+	{
+		"type": "Territories",
 		"title": "Seaside South",
 		"notes": "Território ao Sul da Seaside",
 		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
